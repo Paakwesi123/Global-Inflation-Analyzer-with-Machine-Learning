@@ -106,7 +106,7 @@ These plots show how different economies have evolved in inflation control or in
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Global-Inflation-Analyzer.git
+git clone https://github.com/Paakwesi123/Global-Inflation-Analyzer.git
 cd Global-Inflation-Analyzer
 ```
 
