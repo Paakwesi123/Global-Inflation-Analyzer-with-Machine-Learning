@@ -16,7 +16,6 @@
 * [Outputs](#outputs)
 * [How to Run the Project](#how-to-run-the-project)
 * [Future Improvements](#future-improvements)
-* [Author](#author)
 
 
 ##  Project Objectives
