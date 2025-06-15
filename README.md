@@ -30,7 +30,7 @@
 ##  Dataset
 
 * **File**: `global_inflation_data.csv`
-* **Source**: Public dataset (e.g., World Bank, IMF aggregates, or Kaggle sources)
+* **Source**: Public dataset
 * **Size**: Covers over 190 countries from 1980 to 2024
 * **Columns**:
 
@@ -44,7 +44,7 @@
 * **Pandas** – Data manipulation
 * **Matplotlib & Seaborn** – Data visualization
 * **Scikit-learn** – Machine learning
-* **VS Code / Jupyter** – Development environment
+* **VS Coder** – Development environment
 
 
 ##  How It Works
